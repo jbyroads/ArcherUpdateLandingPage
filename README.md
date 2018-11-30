@@ -13,3 +13,5 @@ The RSA Archer eGRC platform has a limitation when it comes to updating the land
   A) Select User.  Search for a specific user.  Set values for landing page.
   B) Select Group.  Search for a group.  Set values for landing page.
 6) Click execute.  This will update the user(s) landing page appropriately.
+
+![alt text](https://github.com/jbyroads/ArcherUpdateLandingPage/blob/master/updatelandingpage.PNG)
